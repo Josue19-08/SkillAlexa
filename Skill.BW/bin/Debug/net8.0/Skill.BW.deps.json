@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Skill.BW/1.0.0": {
+        "dependencies": {
+          "Skill.BC": "1.0.0"
+        },
+        "runtime": {
+          "Skill.BW.dll": {}
+        }
+      },
+      "Skill.BC/1.0.0": {
+        "runtime": {
+          "Skill.BC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skill.BW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Skill.BC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

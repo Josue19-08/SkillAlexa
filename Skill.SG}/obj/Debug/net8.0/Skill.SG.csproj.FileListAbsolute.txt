@@ -1,0 +1,17 @@
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.SG.deps.json
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.SG.dll
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.SG.pdb
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.BC.dll
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.BW.dll
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.BC.pdb
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\bin\Debug\net8.0\Skill.BW.pdb
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.csproj.AssemblyReference.cache
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.AssemblyInfoInputs.cache
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.AssemblyInfo.cs
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.csproj.CoreCompileInputs.cache
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.csproj.Up2Date
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.dll
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\refint\Skill.SG.dll
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.pdb
+C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\ref\Skill.SG.dll

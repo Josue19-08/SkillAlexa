@@ -1,0 +1,6 @@
+@Josue_Daniel_Tarea_III_IF4101_HostAddress = http://localhost:5253
+
+GET {{Josue_Daniel_Tarea_III_IF4101_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
