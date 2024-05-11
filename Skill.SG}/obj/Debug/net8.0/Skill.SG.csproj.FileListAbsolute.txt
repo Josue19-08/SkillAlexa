@@ -15,3 +15,21 @@ C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Danie
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\refint\Skill.SG.dll
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\Skill.SG.pdb
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.SG}\obj\Debug\net8.0\ref\Skill.SG.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.SG.deps.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.SG.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.SG.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.BC.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.BW.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.BC.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\bin\Debug\net8.0\Skill.BW.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.sourcelink.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.csproj.Up2Date
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\refint\Skill.SG.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\Skill.SG.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.SG}\obj\Debug\net8.0\ref\Skill.SG.dll

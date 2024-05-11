@@ -9,3 +9,15 @@ C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Danie
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.BC\obj\Debug\net8.0\refint\Skill.BC.dll
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.BC\obj\Debug\net8.0\Skill.BC.pdb
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.BC\obj\Debug\net8.0\ref\Skill.BC.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\bin\Debug\net8.0\Skill.BC.deps.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\bin\Debug\net8.0\Skill.BC.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\bin\Debug\net8.0\Skill.BC.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.sourcelink.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\refint\Skill.BC.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\Skill.BC.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.BC\obj\Debug\net8.0\ref\Skill.BC.dll

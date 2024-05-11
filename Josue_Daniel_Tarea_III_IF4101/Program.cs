@@ -23,7 +23,8 @@ builder.Services.AddTransient<IGestionarListaDeseosDA, GestionarListaDeseosDA>()
 
 builder.Services.AddDbContext<Skill.DA.Contexto.TareaIIIContext>(options =>
 {
-    var connectionString = "Server=(LocalDB)\\LocalServerJosue;Database=PruebaTareaIII;Trusted_Connection=True;TrustServerCertificate=True";
+    var connectionString = "Server=LenguajesCalidad.mssql.somee.com;Database=LenguajesCalidad;User Id=D242001_SQLLogin_1;Password=ydvaqspc67;Trusted_Connection=False;TrustServerCertificate=True;";
+
     options.UseSqlServer(connectionString);
 });
 var app = builder.Build();

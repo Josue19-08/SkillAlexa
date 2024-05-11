@@ -17,3 +17,23 @@ C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Danie
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.DA\obj\Debug\net8.0\Skill.DA.pdb
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.DA\obj\Debug\net8.0\Skill.DA.genruntimeconfig.cache
 C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\Skill.DA\obj\Debug\net8.0\ref\Skill.DA.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.DA.deps.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.DA.runtimeconfig.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.DA.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.DA.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.BC.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.BW.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.BW.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\bin\Debug\net8.0\Skill.BC.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.sourcelink.json
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.csproj.Up2Date
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\refint\Skill.DA.dll
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.pdb
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\Skill.DA.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\Proyectos\Lenguajes Tarea III\SkillAlexa\Skill.DA\obj\Debug\net8.0\ref\Skill.DA.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj": {}
+    "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj": {}
   },
   "projects": {
-    "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj",
         "projectName": "Josue_Daniel_Tarea_III_IF4101.API",
-        "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,17 +28,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj"
               },
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj"
               },
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Skill.DA.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Skill.DA.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Skill.DA.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Skill.DA.csproj"
               },
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.SG}\\Skill.SG.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.SG}\\Skill.SG.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.SG}\\Skill.SG.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.SG}\\Skill.SG.csproj"
               }
             }
           }
@@ -104,21 +100,17 @@
         }
       }
     },
-    "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj",
         "projectName": "Skill.BC",
-        "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,21 +160,17 @@
         }
       }
     },
-    "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj",
         "projectName": "Skill.BW",
-        "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,8 +184,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj"
               }
             }
           }
@@ -236,21 +224,17 @@
         }
       }
     },
-    "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Skill.DA.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Skill.DA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Skill.DA.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Skill.DA.csproj",
         "projectName": "Skill.DA",
-        "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Skill.DA.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Skill.DA.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -264,8 +248,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj"
               }
             }
           }
@@ -326,21 +310,17 @@
         }
       }
     },
-    "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.SG}\\Skill.SG.csproj": {
+    "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.SG}\\Skill.SG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.SG}\\Skill.SG.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.SG}\\Skill.SG.csproj",
         "projectName": "Skill.SG",
-        "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.SG}\\Skill.SG.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.SG}\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.SG}\\Skill.SG.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.SG}\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -354,11 +334,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BC\\Skill.BC.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BC\\Skill.BC.csproj"
               },
-              "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj": {
-                "projectPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.BW\\Skill.BW.csproj"
+              "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj": {
+                "projectPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.BW\\Skill.BW.csproj"
               }
             }
           }

@@ -1,23 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\",
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|c:\\ucr\\2024 - ciclo i\\lenguajes para aplicaciones comerciales\\tareas\\josue_daniel_tarea_iii_if4101\\josue_daniel_tarea_iii_if4101\\controllers\\listadeseoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|solutionrelative:controllers\\listadeseoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Migrations\\20240511044306_InitBD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|c:\\ucr\\2024 - ciclo i\\lenguajes para aplicaciones comerciales\\tareas\\josue_daniel_tarea_iii_if4101\\josue_daniel_tarea_iii_if4101\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF04DC1C-32A9-40CA-B045-79D0DEDDC229}|..\\Skill.DA\\Skill.DA.csproj|c:\\ucr\\2024 - ciclo i\\lenguajes para aplicaciones comerciales\\tareas\\josue_daniel_tarea_iii_if4101\\skill.da\\acciones\\gestionarproductoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF04DC1C-32A9-40CA-B045-79D0DEDDC229}|..\\Skill.DA\\Skill.DA.csproj|c:\\ucr\\2024 - ciclo i\\lenguajes para aplicaciones comerciales\\tareas\\josue_daniel_tarea_iii_if4101\\skill.da\\acciones\\gestionarlistadeseosda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|c:\\ucr\\2024 - ciclo i\\lenguajes para aplicaciones comerciales\\tareas\\josue_daniel_tarea_iii_if4101\\josue_daniel_tarea_iii_if4101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|c:\\users\\daniel\\desktop\\proyectos\\lenguajes tarea iii\\skillalexa\\josue_daniel_tarea_iii_if4101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D74F6AC-17CF-45F3-8314-E47BEC26992B}|Josue_Daniel_Tarea_III_IF4101.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,71 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Controllers\\ProductoController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T05:06:28.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GestionarProductoDA.cs",
-              "DocumentMoniker": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Acciones\\GestionarProductoDA.cs",
-              "RelativeDocumentMoniker": "..\\Skill.DA\\Acciones\\GestionarProductoDA.cs",
-              "ToolTip": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Acciones\\GestionarProductoDA.cs",
-              "RelativeToolTip": "..\\Skill.DA\\Acciones\\GestionarProductoDA.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:54:18.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListaDeseosController.cs",
-              "DocumentMoniker": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Controllers\\ListaDeseosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ListaDeseosController.cs",
-              "ToolTip": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Controllers\\ListaDeseosController.cs",
-              "RelativeToolTip": "Controllers\\ListaDeseosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Title": "20240511044306_InitBD.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Migrations\\20240511044306_InitBD.cs",
+              "RelativeDocumentMoniker": "..\\Skill.DA\\Migrations\\20240511044306_InitBD.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Skill.DA\\Migrations\\20240511044306_InitBD.cs",
+              "RelativeToolTip": "..\\Skill.DA\\Migrations\\20240511044306_InitBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:45:49.024Z",
+              "WhenOpened": "2024-05-11T04:43:06.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GestionarListaDeseosDA.cs",
-              "DocumentMoniker": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Acciones\\GestionarListaDeseosDA.cs",
-              "RelativeDocumentMoniker": "..\\Skill.DA\\Acciones\\GestionarListaDeseosDA.cs",
-              "ToolTip": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Skill.DA\\Acciones\\GestionarListaDeseosDA.cs",
-              "RelativeToolTip": "..\\Skill.DA\\Acciones\\GestionarListaDeseosDA.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:19:32.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Desktop\\Proyectos\\Lenguajes Tarea III\\SkillAlexa\\Josue_Daniel_Tarea_III_IF4101\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T03:52:54.248Z",
+              "WhenOpened": "2024-05-11T03:14:04.86Z",
               "EditorCaption": ""
             }
           ]
