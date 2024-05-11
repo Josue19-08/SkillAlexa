@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Alexa.NET/1.22.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Alexa.NET.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Alexa.NET.dll": {}
+        }
+      },
       "Azure.Core/1.35.0": {
         "type": "package",
         "dependencies": {
@@ -902,6 +914,19 @@
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
         }
       },
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.4.0": {
         "type": "package",
         "dependencies": {
@@ -1646,6 +1671,20 @@
     }
   },
   "libraries": {
+    "Alexa.NET/1.22.0": {
+      "sha512": "Q/DBMkW5+AewIFwbFyU+gFZprrlfH/B8Yxlad3ISPSf4FB3sCYGE6oNiGWFliF3qt6AP77I5p/QLuUHd4d1djg==",
+      "type": "package",
+      "path": "alexa.net/1.22.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "alexa.net.1.22.0.nupkg.sha512",
+        "alexa.net.nuspec",
+        "lib/netstandard2.0/Alexa.NET.dll",
+        "nuget-icon.png",
+        "readme.md"
+      ]
+    },
     "Azure.Core/1.35.0": {
       "sha512": "hENcx03Jyuqv05F4RBEPbxz29UrM3Nbhnr6Wl6NQpoU9BCIbL3XLentrxDCTrH54NLS11Exxi/o8MYgT/cnKFA==",
       "type": "package",
@@ -3286,6 +3325,36 @@
         "mono.texttemplating.nuspec"
       ]
     },
+    "Newtonsoft.Json/12.0.2": {
+      "sha512": "rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
     "Swashbuckle.AspNetCore/6.4.0": {
       "sha512": "eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
       "type": "package",
@@ -4620,6 +4689,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Alexa.NET >= 1.22.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.4",
       "Skill.BC >= 1.0.0",
@@ -4692,6 +4762,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Alexa.NET": {
+            "target": "Package",
+            "version": "[1.22.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

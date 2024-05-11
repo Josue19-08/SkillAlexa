@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7SO7i4QMfdph9jWOR7ERTlyHhwojhM4Q/jY+mipl9NJFMVOzf/WaAhNNmK/dJVunR7krQA9ss5MZu46nEXOIOg==",
+  "dgSpecHash": "bH9AE5WK14521H8nhCcMNj/bp0rFzrfQnJRDUM0TLhRVk+iUXv8T/ahd7jaAfaLFB6FC6zcu1aB3NUmwpGbXZg==",
   "success": true,
   "projectFilePath": "C:\\UCR\\2024 - CICLO I\\Lenguajes para Aplicaciones Comerciales\\Tareas\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101\\Josue_Daniel_Tarea_III_IF4101.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\josue\\.nuget\\packages\\alexa.net\\1.22.0\\alexa.net.1.22.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -47,6 +48,7 @@
     "C:\\Users\\josue\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\josue\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\josue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

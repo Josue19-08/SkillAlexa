@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/JosueDanielTareaIIIIF4101API/apis/JosueDanielTareaIIIIF4101API",
+      "type": "apis.azure"
+    }
+  }
+}

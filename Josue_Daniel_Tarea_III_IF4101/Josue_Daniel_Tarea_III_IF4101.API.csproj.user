@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\UCR\2024 - CICLO I\Lenguajes para Aplicaciones Comerciales\Tareas\Josue_Daniel_Tarea_III_IF4101\.github\workflows\AlexaSkillMZ.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
