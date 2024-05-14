@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Skill.BW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f1e03c949147bb2db7226e1cb201eec7cab9b2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18bb1662b9545b1eb3a52c6e9f46c54f42d543d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Skill.BW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Skill.BW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

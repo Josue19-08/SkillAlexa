@@ -22,10 +22,16 @@ namespace Skill.API.Controllers
             return await this.gestionarListaDeseosBW.registrarProducto(codigo, cantidad);
         }
 
-        [HttpPut("{codigo}")]
-        public async Task<bool> editarCantidadProducto(string codigo, int cantidad)
+        [HttpPut("aumentar/{codigo}")]
+        public async Task<bool> aumentarCantidadProducto(string codigo, int cantidad)
         {
-            return await this.gestionarListaDeseosBW.editarCantidadProducto(codigo.Trim(), cantidad);
+            return await this.gestionarListaDeseosBW.aumentarCantidadProducto(codigo, cantidad);
+        }
+
+        [HttpPut("disminuir/{codigo}")]
+        public async Task<bool> disminuirCantidadProducto(string codigo, int cantidad)
+        {
+            return await this.gestionarListaDeseosBW.disminuirCantidadProducto(codigo, cantidad);
         }
 
         [HttpDelete("{codigo}")]
@@ -44,6 +50,12 @@ namespace Skill.API.Controllers
         public async Task<IEnumerable<Producto>> obtenerProductos()
         {
             return await this.gestionarListaDeseosBW.obtenerProductos();
+        }
+
+        [HttpGet("calcularTotal")]
+        public async Task<double> obtenerTotalAPagar()
+        {
+            return await this.gestionarListaDeseosBW.obtenerTotalAPagar();
         }
 
     }

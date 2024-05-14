@@ -12,13 +12,18 @@ namespace Skill.BW.Interfaces.DA
 
         Task<bool> registrarProducto(string codigo, int cantidad);
 
-        Task<bool> editarCantidadProducto(string codigo, int cantidad);
+
+        Task<bool> aumentarCantidadProducto(string codigo, int cantidad);
+
+        Task<bool> disminuirCantidadProducto(string codigo, int cantidad);
 
         Task<bool> eliminarProducto(string codigo);
 
         Task<Producto> obtenerProducto(string codigo);
 
         Task<IEnumerable<Producto>> obtenerProductos();
+
+        Task<double> obtenerTotalAPagar();
 
 
     }

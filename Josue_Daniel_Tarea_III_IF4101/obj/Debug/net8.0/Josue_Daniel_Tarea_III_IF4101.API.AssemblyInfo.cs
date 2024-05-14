@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Josue_Daniel_Tarea_III_IF4101.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f1e03c949147bb2db7226e1cb201eec7cab9b2c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18bb1662b9545b1eb3a52c6e9f46c54f42d543d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Josue_Daniel_Tarea_III_IF4101.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Josue_Daniel_Tarea_III_IF4101.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

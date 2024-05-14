@@ -19,9 +19,14 @@ namespace Skill.BW.CU
             this.gestionarListaDeseosDA = gestionarListaDeseosDA;
         }
 
-        public async Task<bool> editarCantidadProducto(string codigo, int cantidad)
+        public async Task<bool> aumentarCantidadProducto(string codigo, int cantidad)
         {
-            return await this.gestionarListaDeseosDA.editarCantidadProducto(codigo, cantidad);
+            return await this.gestionarListaDeseosDA.aumentarCantidadProducto(codigo, cantidad);
+        }
+
+        public async Task<bool> disminuirCantidadProducto(string codigo, int cantidad)
+        {
+            return await this.gestionarListaDeseosDA.disminuirCantidadProducto(codigo, cantidad);
         }
 
         public async Task<bool> eliminarProducto(string codigo)
@@ -37,6 +42,11 @@ namespace Skill.BW.CU
         public async Task<IEnumerable<Producto>> obtenerProductos()
         {
             return await this.gestionarListaDeseosDA.obtenerProductos();
+        }
+
+        public async Task<double> obtenerTotalAPagar()
+        {
+            return await this.gestionarListaDeseosDA.obtenerTotalAPagar();
         }
 
         public async Task<bool> registrarProducto(string codigo, int cantidad)
